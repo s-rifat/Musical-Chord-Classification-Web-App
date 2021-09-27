@@ -34,10 +34,9 @@ jupyter-core==4.8.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
 librosa==0.8.1
-libsndfile-dev
+libsndfile
 libsndfile1
-libsndfile1-dev
-libpq-dev 
+libpq
 llvmlite==0.37.0
 MarkupSafe==2.0.1
 matplotlib-inline==0.1.3
